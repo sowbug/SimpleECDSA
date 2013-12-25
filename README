@@ -1,0 +1,5 @@
+SimpleECDSA is a simple implementation of ECDSA by Jonas Finnemann Jensen, and is released under GNU GPLv3, see LICENSE.
+
+You must install GMP before trying to build this application, it can be downloaded from gmplib.org, but is also available in most distributions.
+
+Have any questions feel free to contact me Jonas Finnemann Jensen <Jopsen@gmail.com> or leave a comment at my blog post about this application: http://jopsen.dk/blog/2007/12/simpleecdsa-a-simple-implementation-of-ecdsa-in-c
